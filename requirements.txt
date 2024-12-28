@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+docx==0.2.4
+python_docx==1.1.2
+tkdesigner
+scipy
+bs4
+PyMuPDF
+pandas
