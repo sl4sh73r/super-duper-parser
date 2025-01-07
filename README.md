@@ -5,8 +5,8 @@
 
 1. **Клонирование репозитория**
    ```sh
-   git clone https://github.com/sl4sh73r/PdfMultiplyParser.git
-   cd PdfMultiplyParser
+   git clone https://github.com/sl4sh73r/super-duper-parser.git
+   cd super-duper-parser
    ```
 
 2. **Создание и активация виртуального окружения**
